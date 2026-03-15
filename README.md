@@ -50,6 +50,7 @@ Scanner (java.util.Scanner)
 Autor
 Curso Tecnico em Informatica — IFCE Maracanau
 Professor: Jean Marcelo da Silva Maciel
+
 Como Executar
 javac Produto.java
 javac DemoProduto.java
