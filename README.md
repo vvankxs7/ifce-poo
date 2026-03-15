@@ -51,11 +51,10 @@ Autor
 Curso Tecnico em Informatica — IFCE Maracanau
 Professor: Jean Marcelo da Silva Maciel
 
-Como Executar
+Compile os arquivos na seguinte ordem:
 javac Produto.java
 javac DemoProduto.java
+
+executar:
 java DemoProduto
-
-
-Compile os arquivos na seguinte ordem:
 
